@@ -1,0 +1,9 @@
+# This is an R markdown File
+
+```{r}
+summary(cars$dist)
+summary(cars$speed)
+
+plot(cars$dist, cars@speed)
+```
+

@@ -1,6 +1,6 @@
 # Friendly Collaboration Party 
 
-
+![](https://media.giphy.com/media/ykUYsNYRvrprq/giphy.gif)
 
 This repository is for planning a party to learn GitHub and more!
 

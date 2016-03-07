@@ -1,21 +1,12 @@
 # Friendly Collaboration Party 
 
-
-
 This repository is for planning a party to learn GitHub and more!
 
-## Who
+## About
+This is some text about my project. It is interesting because it answers this question about the universe. 
 
-All the participants of the GitHub Workshop
+## Team
+So far my team is small - just 1 person, but I'm willing to work with you!
 
-## When
-
-All day, every day
-
-## How
-
-Like it's 1999
-
-## Why
-
-Because that's how we do
+## Setup & Requirements
+This project requires a computer and internet. 

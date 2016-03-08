@@ -20,13 +20,16 @@ Like it's 1999
 
 Because that's how we do
 
-## Planning
+*** 
+
+# Planning
+
 Please see each of the links to each of the plans for the party:
-### Food
+## Food
 [Food](FOOD.mD)
-### Venue
+## Venue
 [Venue](VENUE.mD)
-### Entertainment
+## Entertainment
 [Entertainment](ENTERTAINMENT.mD)
-### Decorations
+## Decorations
 [Decorations](DECORATIONS.md)

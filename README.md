@@ -33,3 +33,6 @@ Please see each of the links to each of the plans for the party:
 [Entertainment](ENTERTAINMENT.mD)
 ## Decorations
 [Decorations](DECORATIONS.md)
+
+## Costumes
+[Costumes](COSTUMES.md)

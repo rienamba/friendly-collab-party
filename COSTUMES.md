@@ -4,3 +4,6 @@ PartyPlanners4Us has Minion costumes for $45/day that look like this:
 
 
 ![minions](http://weknowyourdreamz.com/images/minions/minions-01.jpg)
+
+
+I think the minoins would look great with Spaghetti Hair! 
